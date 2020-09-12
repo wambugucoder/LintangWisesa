@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e32d338710f047598abcf5c9d09b1400)](https://app.codacy.com/manual/josphatwambugu77/LintangWisesa?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/LintangWisesa&utm_campaign=Badge_Grade_Dashboard)
+
 <img src="https://raw.githubusercontent.com/LintangWisesa/LintangWisesa/master/hello.gif" width="25%"/>
 
 |||
